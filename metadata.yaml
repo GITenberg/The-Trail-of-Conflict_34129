@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36805
 description: Two young people are forced to marry each other to save both families
   from financial ruin.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34129#The-Trail-of-Conflict
 gutenberg_issued: '2010-10-24'
 gutenberg_type: Text
 identifiers:
